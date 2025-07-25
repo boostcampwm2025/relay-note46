@@ -638,10 +638,10 @@ AI를 활용해 자신만의 복습 퀴즈를 생성하고, 이를 통해 이번
 
 미션 6, 7, 8, 9 복습 및 퀴즈
 
-미션 6: https://www.notion.so/6-23b8bb2fe87780909cdce897749109bc?source=copy_link
-미션 7: https://www.notion.so/7-23b8bb2fe87780f583acf9c7d14d2d1b?source=copy_link
-미션 8: https://www.notion.so/8-23b8bb2fe877808d9234ce876e11fde0?source=copy_link
-미션 9: https://www.notion.so/9-23b8bb2fe877801ab75af31dc430b777?source=copy_link
+미션 6: https://www.notion.so/6-23b8bb2fe87780909cdce897749109bc?source=copy_link <br>
+미션 7: https://www.notion.so/7-23b8bb2fe87780f583acf9c7d14d2d1b?source=copy_link <br>
+미션 8: https://www.notion.so/8-23b8bb2fe877808d9234ce876e11fde0?source=copy_link <br>
+미션 9: https://www.notion.so/9-23b8bb2fe877801ab75af31dc430b777?source=copy_link <br>
 
 - 해당 퀘스트를 수행하는 데 AI는 어떤 역할이었나요? AI가 없으면 동일한 결과를 얻을 수 없을까요?
 
