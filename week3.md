@@ -355,9 +355,9 @@ dgram 모듈의 setBroadcast(true) 메서드를 사용하면 브로드캐스트 
 
   
 <details>
-<div markdown="1">
-  <summary>진행한 퀘스트</summary>
 
+  <summary>진행한 퀘스트</summary>
+  <div markdown="1">
   1. HTTP Request와 Response
 
 - **Q1-1.** HTTP Request 메시지의 세 가지 주요 구성 요소는 무엇이며, 각 부분은 어떤 역할을 하나요?
